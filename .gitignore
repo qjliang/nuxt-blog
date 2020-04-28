@@ -67,17 +67,6 @@ typings/
 .next
 
 # nuxt.js build output
-# .nuxt
-assets
-components
-layouts
-middleware
-pages
-plugins
-server
-static
-store
-utils
 
 # Nuxt generate
 dist
